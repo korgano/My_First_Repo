@@ -1,0 +1,65 @@
+
+nav {
+    background-color: burlywood;
+    width: 100%
+    }
+
+.navButton {
+    display: inline-block;
+    padding: 2em;
+}
+
+img {
+    max-width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+img.block {
+    width: 50%;
+    float: left;
+}
+
+img.inline {
+    width: 25%;
+    display: inline-block;
+}
+
+p {
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: .5em;
+}
+
+.sidebar {
+    width: 29%;
+    float: left;
+    background-color: cadetblue;
+    color: whitesmoke;
+    height: ;
+}
+
+.mainBody {
+    width: 70%;
+    float: left;
+    background-color: navajowhite;
+    color: black;
+}
+
+.topblock {
+    height: max-content;
+    margin-bottom: 6em;
+}
+
+.gallery {
+    margin-top: 6em;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin: 1em;
+    text-align: center;
+}
